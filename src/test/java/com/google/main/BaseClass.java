@@ -34,7 +34,12 @@ WebDriver driver;
 	}
 	
 	public void screenShot (String path) {
-		TakeScreenshot tc = 
 		
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		System.out.println("welcome for a change in newfirstproject");
 	}
 }
